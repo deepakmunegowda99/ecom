@@ -1,0 +1,5 @@
+package com.ecom.payload;
+
+public class ApiResponse {
+
+}

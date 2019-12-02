@@ -1,0 +1,13 @@
+package com.ecom.repositoryImp;
+
+import java.io.Serializable;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+public abstract class GenerciRepositoryImp< T extends Serializable > {
+	
+	 @PersistenceContext
+	   EntityManager entityManager;
+
+}

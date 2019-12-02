@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.ecom.security.JwtTokenProvide.java&apos; to &apos;JwtTokenProvider.java&apos;&#x0D;&#x0A;- Original project: &apos;ecom&apos;&#x0D;&#x0A;- Original element: &apos;com.ecom.security.JwtTokenProvide.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ecom.security.JwtTokenProvider.java&apos;" description="Rename compilation unit &apos;JwtTokenProvide.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.ecom.security{JwtTokenProvide.java" name="JwtTokenProvider.java" references="false" stamp="1575260244449" version="1.0"/>
+</session>
