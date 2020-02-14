@@ -1,5 +1,0 @@
-package com.ecom.config;
-
-public class WebMvcConfig implements WebMvcConfigurer {
-
-}

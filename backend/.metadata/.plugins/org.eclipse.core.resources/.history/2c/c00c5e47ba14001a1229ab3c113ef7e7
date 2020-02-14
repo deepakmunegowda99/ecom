@@ -1,6 +1,0 @@
-package com.ecom.security;
-
-@Service
-public class CustomUserDetailsService implements UserDetailsService {
-
-}

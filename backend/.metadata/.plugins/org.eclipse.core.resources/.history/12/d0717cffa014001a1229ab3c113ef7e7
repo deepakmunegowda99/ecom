@@ -1,8 +1,0 @@
-package com.ecom.config;
-
-public class SecurityConfig extends WebSecurityConfigurerAdapter {
-	
-	@Autowired
-    CustomUserDetailsService customUserDetailsService;
-
-}

@@ -1,7 +1,0 @@
-package com.ecom.config;
-
-@Configuration
-@EnableJpaAuditing
-public class AuditingConfig {
-
-}

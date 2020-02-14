@@ -1,6 +1,0 @@
-package com.ecom.security;
-
-@Component
-public class JwtAuthenticationEntryPoint {
-
-}

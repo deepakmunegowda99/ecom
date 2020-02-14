@@ -1,5 +1,0 @@
-package com.ecom.exceptions;
-
-public class ResourceNotFoundException extends RuntimeException {
-
-}

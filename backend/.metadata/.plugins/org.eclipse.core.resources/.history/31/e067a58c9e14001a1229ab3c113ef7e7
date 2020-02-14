@@ -1,7 +1,0 @@
-package com.ecom.repositoryImp;
-
-import java.io.Serializable;
-
-public abstract class GenerciRepositoryImp< T extends Serializable > {
-
-}

@@ -1,7 +1,0 @@
-package com.ecom.security;
-
-public class JwtTokenProvider {
-	
-	private static final Logger logger = LoggerFactory.getLogger(JwtTokenProvider.class);
-
-}
